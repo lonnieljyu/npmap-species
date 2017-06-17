@@ -13,6 +13,7 @@ Usage Instructions: Execute run.sh
 Workflow breakdown.
 
 Preprocessing: preprocess.sh
+   separate.py input_file output_dir > counts.txt
    setup_eden_folds.sh
    eden eden_folds/
 
