@@ -6,20 +6,22 @@ Installation Instructions:
    Execute ./libfdr/src/makefile
    Execute ./makefile
 
-Usage Instructions: Execute run.sh
+Usage Instructions: 
+   Configure environment variables in do_run.sh
+   Execute run.sh
 
 ***************************************************************************
 
 Workflow breakdown.
 
-Preprocessing: preprocess.sh
+Preprocessing (preprocess.sh):
    setup_eden_folds.sh
    eden eden_folds/
 
-Maxent Jobs: maxent.sh
+Maxent Jobs (maxent.sh):
    setup_eden_maxent.sh
    eden eden_maxent/
 
-Postprocessing: postprocess.sh 
+Postprocessing (postprocess.sh) :
    setup_eden-aggregate.sh
    eden eden_aggregate/
