@@ -1,6 +1,3 @@
-npmap-species
-=============
-
 # NPS.gov
 Landing Page:
 https://www.nps.gov/grsm/learn/nature/index.htm
