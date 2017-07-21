@@ -1,9 +1,14 @@
 npmap-species
 =============
+
+#NPS.gov
 https://www.nps.gov/grsm/learn/nature/index.htm
 
 Species Mapper:
 https://science.nature.nps.gov/parks/grsm/species/
 
-Press release:
+#MAXENT Modeling
+http://biodiversityinformatics.amnh.org/open_source/maxent/
+
+#Press
 http://tntoday.utk.edu/2016/08/03/ut-great-smoky-mountains-national-park-release-biodiversity-web-application/
